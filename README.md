@@ -1,2 +1,3 @@
 # EDX-IBM
-EDX-IBM Python Data Science
+
+Capstone folder: DS0720EN - Data Science and Machine Learning Capstone Project
